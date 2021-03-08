@@ -33,11 +33,7 @@ Here constains：Training model, Pre-processed code, Training and Testing code
 		 score.py is score calculating function based on the calculate method provided by official to calculate the score of this model. 
 
 ### [Training model]： 
-		 models use in every versions. PLease unzip them first.
-		 RFC_only.pkl used in version1 & version4
-		 XGB_only.pkl used in version2 & version4
-		 XGB_whole_01.pkl~05 are uesd in version5
-		 others are used in version6, 7
+		 models use update in "Realease"
 
 ## ------[File Note]------- 
 	Due to the license agreement signed with official, so i won't update either training datasets or testing datasets.
