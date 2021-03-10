@@ -23,7 +23,7 @@ Here constains：Training model, Pre-processed code, Training and Testing code
 	contain three python files, for some featrues processing and data processing.
 
 ### [Testing code]： 
-		Contain six folders, version 2 obtain better scrore.
+		Contain eight folders, version 2 obtain better scrore.
 	        Each folders contains two python files for loading testing datasets and fitting to get predictions.
 		Models used here are contain in Training model.rar, see detailed info below
 
