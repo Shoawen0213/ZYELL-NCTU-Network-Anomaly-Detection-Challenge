@@ -1,4 +1,4 @@
-# ZYELL---NCTU-Network-Anomaly-Detection-Challenge
+# ZYELL-NCTU-Network-Anomaly-Detection-Challenge
 Here constains：Training model, Pre-processed code, Training and Testing code  
 
 # ICASSP 2021 ZYELL-NCTU NAD CHALLENGE #
