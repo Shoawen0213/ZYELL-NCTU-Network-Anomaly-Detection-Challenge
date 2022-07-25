@@ -1,9 +1,9 @@
 # ZYELL-NCTU-Network-Anomaly-Detection-Challenge
-Here constains：Training model, Pre-processed code, Training and Testing code  
+- Here constains：Training model, Pre-processed code, Training and Testing code  
 
 # ICASSP 2021 ZYELL-NCTU NAD CHALLENGE #
-##NAD2021 challenge official website : https://nad2021.nctu.edu.tw/  
-### Syslog traffics dataset from ZYELL   ###
+- NAD2021 challenge official website : https://nad2021.nctu.edu.tw/  
+- Syslog traffics dataset from ZYELL
 
 @2021 IEEE International Conference on Acoustics, Speech and Signal Processing 
               6-11 June 2021 • Toronto, Ontario, Canada
@@ -11,9 +11,6 @@ Here constains：Training model, Pre-processed code, Training and Testing code
 
 ### (C) Copyright Optimum Application-Specific Integrated System Lab All Right Reserved                               
 - Arthor ： Shao-Wen, Cheng                   
-
-
-
 
 ### [File descibe] 
 
@@ -37,6 +34,6 @@ Here constains：Training model, Pre-processed code, Training and Testing code
 	Due to the license agreement signed with official, so i won't update either training datasets or testing datasets.
 
 
-### ------important------ 
+### [Note] 
 	If there's ant problem, please contact me:
 	e-mail：shaowen.eic09g@nctu.nctu.edu
